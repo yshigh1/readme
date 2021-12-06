@@ -65,3 +65,15 @@ Board
 # • 연희마켓
 <h1 align="center"> 연희마켓 Mainpage (초기화면) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png">
+
+<h1 align="center"> 게시글 작성 (연희마켓) </h1>
+<img src="https://user-images.githubusercontent.com/86515946/144848010-47ff0b4b-e901-4446-9220-a572bb5deaa2.png">
+
+<h1 align="center"> 게시글 보기 (연희마켓) </h1>
+<img src="https://user-images.githubusercontent.com/86515946/144848227-34979b74-a1bd-4d60-b1d9-1fb12a3f795e.png">
+
+<h1 align="center"> 게시글 수정 (연희마켓) </h1>
+<img src="https://user-images.githubusercontent.com/86515946/144848413-f1dc9d10-e882-44ec-97ba-a84fdaf7216d.png">
+
+<h1 align="center"> 게시글 삭제 (연희마켓) </h1>
+<img src="https://user-images.githubusercontent.com/86515946/144848691-4d2696dd-10bf-45b4-950f-037334d93fb8.png">
