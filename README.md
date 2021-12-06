@@ -1,5 +1,5 @@
-# MARKDOWN
-MARKDOWN 정리, 실습 for README.md
+# 연희마켓 YeonHee Market ![market-logo](https://user-images.githubusercontent.com/86515946/144827964-9f9e6293-e43a-4aed-a6ab-513bf8605f0f.png)
+
 
 # 1. 제목(글머리) 작성
 # H1 제목  
