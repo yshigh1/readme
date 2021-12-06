@@ -1,11 +1,13 @@
 <h1 align="center"> 연희마켓 YeonHee Market </h1>
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/86515946/144834647-f880f7ee-8035-43bb-ae3b-931bedcda581.png" width="250px" > </h1>
+
 # • Project YeonHee Market 
 ```sh
 TEAM B-2 연희마켓 프로젝트입니다.
 KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하였습니다.
 연희마켓은 당근마켓, 번개장터, 중고나라 와 비슷한 플랫폼의 중고거래 사이트를 목표로 제작하였습니다.
 ```
+
 # 🔔 Team Member 조원 소개
 • 조장 김민균 <br>
 　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)<br>
@@ -27,6 +29,7 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
  <br>
 • 오유성 <br>
 　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)
+ 
 # 📎 연희마켓 기능 소개 (Mode-Function)
 ```sh
 메인 페이지
@@ -49,14 +52,19 @@ Board
 <ViewPage> -> 수정 및 삭제가 가능
 <ListPage> -> 가격을 Not Null로 설정함으로써 게시판 내용을 클릭해서 확인하기 전에 가격을 확인 가능.
 ```
+
 # • 연희마켓
 <h1 align="center"> 연희마켓 Mainpage (초기화면) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png">
+
 <h1 align="center"> 게시글 작성 (연희마켓) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144848010-47ff0b4b-e901-4446-9220-a572bb5deaa2.png">
+
 <h1 align="center"> 게시글 보기 (연희마켓) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144848227-34979b74-a1bd-4d60-b1d9-1fb12a3f795e.png">
+
 <h1 align="center"> 게시글 수정 (연희마켓) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144848413-f1dc9d10-e882-44ec-97ba-a84fdaf7216d.png">
+
 <h1 align="center"> 게시글 삭제 (연희마켓) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144848691-4d2696dd-10bf-45b4-950f-037334d93fb8.png">
