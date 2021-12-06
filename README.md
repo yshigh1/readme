@@ -1,4 +1,5 @@
-# 연희마켓 YeonHee Market ![market-logo](https://user-images.githubusercontent.com/86515946/144827964-9f9e6293-e43a-4aed-a6ab-513bf8605f0f.png)
+# ![market-logo (1)](https://user-images.githubusercontent.com/86515946/144828519-4bad435b-9dd2-49c7-b2bd-79f56740795f.png)
+ 연희마켓 YeonHee Market 
 
 
 # 1. 제목(글머리) 작성
