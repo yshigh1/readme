@@ -13,15 +13,16 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 # Team Member 조원 소개
 
 • 조장 김민균 <br>
+　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)<br>
 • 이주영 <br>
-　↳ <br>
+　↳ Board(게시판), BackEnd(Java, JSP, JavaScript, MySQL, DataBase)<br>
 • 안형우 <br>
-　↳ <br>
+　↳ Social-Login(소셜로그인 연동), BackEnd(Java, JSP, JavaScript, MySQL, DataBase)<br>
 • 박우종 <br>
-　↳ <br>
+　↳ Social-Login(소셜로그인 연동), BackEnd(Java, JSP, JavaScript, MySQL, DataBase)<br>
 • 정윤호 <br>
-　↳ <br>
+　↳ Board(게시판), FrontEnd(JavaScript, HTML, CSS)<br>
 • 방원석 <br>
-　↳ <br>
+　↳ Board-FileUpload(게시판), BackEnd(Java, JSP, JavaScript, MySQL, DataBase)<br>
 • 오유성 <br>
-　↳
+　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)
