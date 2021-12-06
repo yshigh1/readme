@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/86515946/144834274-0be49ff1-7184-4a9a-8f9e-cefd7d3697a3.png"> 연희마켓 YeonHee Market </h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/86515946/144834647-f880f7ee-8035-43bb-ae3b-931bedcda581.png" width="55px" > 연희마켓 YeonHee Market </h1>
 <p>
 </p>
 
