@@ -3,7 +3,7 @@
 </p>
 
 
-# Project YeonHee Market 
+# • Project YeonHee Market 
 ```sh
 TEAM B-2 연희마켓 프로젝트입니다.
 KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하였습니다.
