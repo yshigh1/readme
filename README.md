@@ -38,5 +38,6 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 
 ```
 
-연희마켓 초기화면 
+# • 연희마켓
+<h1 align="center"> 연희마켓 Mainpage (초기화면) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png">
