@@ -9,7 +9,7 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 연희마켓은 당근마켓, 번개장터, 중고나라 와 비슷한 플랫폼의 중고거래 사이트를 목표로 제작하였습니다.
 ```
 
-# • Team Member 조원 소개
+# 🔔 Team Member 조원 소개
 
 • 조장 김민균 <br>
 　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)<br>
@@ -32,12 +32,36 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 • 오유성 <br>
 　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)
 
-# • 연희마켓 기능 소개 (Mode-Function)
+# 📎 연희마켓 기능 소개 (Mode-Function)
 ```sh
-123123
+
+메인 페이지
+- 많이 거래되는 품목들 위주로 유저에게 게시글을 추천함 
+- 현재 진행중인 이벤트를 큰 슬라이더로 제공
+- 심플하고 정돈된 UI 
+
+Login
+- 각 사진 캡쳐 
+
+-> 회원가입 -> 로그인
+ => 아이디 및 비밀번호의 자리수 및 혼합문자를 사용.
+ => 비밀번호는 bcrypt를 이용하여 해쉬처리를 했습니다.
+
+-> 네이버 로그인(Naver API를 이용)
+ => SocialLogin 하나의 추상클래스를 만들어서 구성.
+    -> extends를 사용하여 편하게 사용.
+ => 시간상 네이버만 구성하였습니다. 
+
+Board
+- 각 사진 캡쳐 
+
+-> 구매 게시판, 판매 게시판 -> 2개의 게시판을 분리하여 편의성을 Up.
+<WritePage> -> 유효성검사를 통해 작성하지 않은 부분을 확인하고, 글이 작성안되게 설정
+<EditPage> -> 수정 및 삭제가 가능하며, 바로 List로 이동이 가능하게 설정
+<ViewPage> -> 수정 및 삭제가 가능
+<ListPage> -> Pagination을 구성하여 게시판 List의 가독성을 높임 / 가격을 Not Null로 설정함으로써 게시판 내용을 클릭해서 확인하기 전에 가격을 확인 가능.
 
 ```
-
 # • 연희마켓
 <h1 align="center"> 연희마켓 Mainpage (초기화면) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png">
