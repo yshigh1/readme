@@ -32,7 +32,7 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 • 오유성 <br>
 　↳ Mainpage(메인페이지), FrontEnd(JavaScipt, HTML, CSS)
 
-# Mode Function of 연희마켓 
+# • 연희마켓 기능 소개 (Mode-Function)
 ```sh
 
 ```
