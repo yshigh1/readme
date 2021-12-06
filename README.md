@@ -35,6 +35,6 @@ KREAM.co.kr 웹사이트의 디자인을 기반으로 웹사이트를 제작하�
 # • 연희마켓 기능 소개 (Mode-Function)
 ```sh
 연희마켓 초기화면 
-<img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png"
+<img src="https://user-images.githubusercontent.com/86515946/144835923-070edc67-1793-4781-b10c-9e8eeab27040.png">
 
 ```
